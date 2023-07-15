@@ -14,19 +14,14 @@ This script generates a random password with a specified length. It combines upp
 - Uses a combination of uppercase letters, lowercase letters, digits, and punctuation symbols
 - Provides a customizable password length
 
-## Usage
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/random-password-generator.git
-1.Navigate to the project directory:
+## Instructions
+1. Navigate to the project directory:
 
 bash
 
 cd random-password-generator
 
-2.Run the script:
+2. Run the script:
 
 bash
 
