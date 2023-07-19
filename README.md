@@ -29,4 +29,4 @@ python password_generator.py
 
 Follow the instructions in the terminal to specify the length of the password.
 
-The generated password will be displayed in the terminal.# Simple-Games
+The generated password will be displayed in the terminal.
